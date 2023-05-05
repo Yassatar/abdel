@@ -1,0 +1,5 @@
+a,git pull recupere un depot distant et fusionne a la branche locale tandisque le git fetch nefectue pas automotiquement cette fusion 
+
+b) git checkout
+c) git push --delete <nom du depot>
+d) git log nom du fichier
